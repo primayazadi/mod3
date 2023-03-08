@@ -1,0 +1,11 @@
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\bin\Debug\modul3.exe.config
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\bin\Debug\modul3.exe
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\bin\Debug\modul3.pdb
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\obj\Debug\modul3.csproj.AssemblyReference.cache
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\obj\Debug\modul3.csproj.SuggestedBindingRedirects.cache
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\obj\Debug\modul3.Form1.resources
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\obj\Debug\modul3.Properties.Resources.resources
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\obj\Debug\modul3.csproj.GenerateResource.cache
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\obj\Debug\modul3.csproj.CoreCompileInputs.cache
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\obj\Debug\modul3.exe
+C:\Users\PRAKTIKAN\Documents\modul3\mod3\modul3\obj\Debug\modul3.pdb
